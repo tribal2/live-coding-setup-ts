@@ -31,5 +31,7 @@ module.exports = {
     '@typescript-eslint',
   ],
   rules: {
+    'missing-semicolon': 'on',
+    'no-console': 'off',
   },
 };
