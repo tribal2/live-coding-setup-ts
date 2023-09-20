@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "nucllear.vscode-extension-auto-import",
+    "dbaeumer.vscode-eslint",
+    "wallabyjs.console-ninja",
+    "usernamehw.errorlens"
+  ]
+}
